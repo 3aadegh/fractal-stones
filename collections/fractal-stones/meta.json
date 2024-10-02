@@ -1,1 +1,9 @@
-
+{
+  "description": "Unique Stones on Fractal Bitcoin",
+  "discord_link": "",
+  "icon": "https://",
+  "name": "Fractal Stones",
+  "slug": "", # all lowercase or underscore hyphen, consistent with the directory name
+  "twitter_link": "https://",
+  "website_link": "https://"
+}
